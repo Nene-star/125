@@ -44,5 +44,5 @@ function draw()
     document.getElementById("sqaure_side").innerHTML = "Widht And Height of a Square will be ="+ difference + "px";
     fill('#F90093');
     stroke('#F90093');
-    sqaure(noseX, noseY, difference);
+    square(noseX, noseY, difference);
 }
